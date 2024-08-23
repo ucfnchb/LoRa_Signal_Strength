@@ -8,6 +8,9 @@ The research explores LoRa’s operational effectiveness in densely and sparsely
 
 ## How to Use This Repository
 This section provides a detailed guide on how to navigate and utilize each component of the repository.
+#### Components Used:
+
+![image](https://github.com/user-attachments/assets/00ccdad2-c3a0-4b32-b5a3-2880c086cbba)
 
 ### Directory Structure
 #### Data:
@@ -26,6 +29,12 @@ Code: Scripts for data processing, TTN payload formatter, Arduino Sketch
 Files:MRK WAN 131O Arduino Sketch, TTN formatter, Telegraph Configeration 
 
 Usage: Run these scripts in your local Arduino or Python environment or TTN platform to replicate the data processing steps.
+
+#### Device Design:
+Files: Physical Device Design file
+
+Usage: Contains 2 protortype 3D files used for the self-build device to collect LoRa for the projects.
+![image](https://github.com/user-attachments/assets/cabfa5bc-6d85-4c09-85f1-65b12b75e6fb)
 
 #### Docs: 
 Description:
