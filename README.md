@@ -60,3 +60,5 @@ Usage: These visualizations can be used to interpret the findings and are essent
 Signal Strength vs. Distance: RSSI values decrease as the distance from the gateway increases, with urban density significantly impacting effective range.
 
 ![v9](https://github.com/user-attachments/assets/ea477946-0427-430a-a697-d2aabbd0440a)
+
+#### This repository is designed to be a comprehensive resource for anyone looking to explore LoRa technology in urban environments.
