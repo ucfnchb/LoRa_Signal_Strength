@@ -6,18 +6,11 @@ This repository contains the code, data, and documentation for the MSc dissertat
 ## Abstract
 The research explores LoRa’s operational effectiveness in densely and sparsely built urban areas by analyzing 246 data points collected across multiple routes. The study confirms that LoRa’s signal strength diminishes with increasing distance from the gateway, with a maximum effective range of about 3 km in sparsely built areas, and approximately 1.2 km in densely built areas. Key factors influencing signal propagation, such as building density and architectural features, are discussed. An unexpected detection of a LoRa signal from a gateway 7.5 km away in a dense urban environment suggests potential for greater coverage under specific conditions.
 
-## Contents of the Repository
-Data: Collected LoRa signal strength and related geographical data.
-
-Code: Scripts for data processing, TTN payload formatter, Arduino Sketch 
-
-Documentation: Detailed explanations of the methodology, including route planned, site information ext.
-Figures: Visual representations of the data, including maps, graphs, and tables illustrating the findings.
-
 ## Key Findings
 Signal Strength vs. Distance: RSSI values decrease as the distance from the gateway increases, with urban density significantly impacting effective range.
 Urban Density Impact: Densely built areas have a much-reduced effective range (approx. 1.2 km) compared to sparsely built areas (up to 3 km).
-Unexpected Findings: Detection of a LoRa signal from a gateway 7.5 km away indicates potential for greater-than-expected range under certain conditions.
+
+![v9](https://github.com/user-attachments/assets/ea477946-0427-430a-a697-d2aabbd0440a)
 
 ## How to Use This Repository
 This section provides a detailed guide on how to navigate and utilize each component of the repository.
